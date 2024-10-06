@@ -1,0 +1,21 @@
+.btn {
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  color: aliceblue;
+}
+
+.btn-primary {
+  background-color: blue;
+}
+
+.btn-secondary {
+  background-color: red;
+}
+
+.portfolio-caption {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  color: aliceblue;
+}

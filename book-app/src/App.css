@@ -1,0 +1,6 @@
+.app-container {
+  background-color: darkslategray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
